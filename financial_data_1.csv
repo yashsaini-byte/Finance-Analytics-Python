@@ -1,0 +1,481 @@
+Date,Company,Sector,Revenue,Expenses,Profit,Investment,ROI (%)
+2021-01-01,Alpha Corp,Technology,148.29,88.5,59.79,134.82,44.35
+2021-02-01,Alpha Corp,Technology,157.31,89.26,68.05,221.23,30.76
+2021-03-01,Alpha Corp,Technology,160.51,89.27,71.24,237.38,30.01
+2021-04-01,Alpha Corp,Technology,157.52,125.97,31.55,149.43,21.11
+2021-05-01,Alpha Corp,Technology,151.58,97.2,54.37,176.94,30.73
+2021-06-01,Alpha Corp,Technology,154.51,105.0,49.51,155.11,31.92
+2021-07-01,Alpha Corp,Technology,153.59,97.94,55.66,162.26,34.3
+2021-08-01,Alpha Corp,Technology,166.19,114.14,52.05,224.3,23.2
+2021-09-01,Alpha Corp,Technology,167.54,121.93,45.62,139.48,32.71
+2021-10-01,Alpha Corp,Technology,160.01,117.17,42.84,147.11,29.12
+2021-11-01,Alpha Corp,Technology,169.18,127.77,41.4,187.46,22.09
+2021-12-01,Alpha Corp,Technology,174.7,102.48,72.22,200.32,36.05
+2022-01-01,Alpha Corp,Technology,186.07,119.74,66.33,216.6,30.62
+2022-02-01,Alpha Corp,Technology,174.83,124.83,50.0,162.49,30.77
+2022-03-01,Alpha Corp,Technology,192.41,110.93,81.47,180.32,45.18
+2022-04-01,Alpha Corp,Technology,191.9,108.15,83.75,197.22,42.47
+2022-05-01,Alpha Corp,Technology,183.69,146.69,36.99,192.82,19.18
+2022-06-01,Alpha Corp,Technology,192.84,122.31,70.52,227.53,31.0
+2022-07-01,Alpha Corp,Technology,204.11,116.83,87.28,304.29,28.68
+2022-08-01,Alpha Corp,Technology,202.86,158.57,44.29,190.51,23.25
+2022-09-01,Alpha Corp,Technology,216.95,169.52,47.43,184.81,25.66
+2022-10-01,Alpha Corp,Technology,220.23,144.81,75.42,194.05,38.87
+2022-11-01,Alpha Corp,Technology,219.99,142.84,77.16,185.78,41.53
+2022-12-01,Alpha Corp,Technology,228.77,147.17,81.6,235.09,34.71
+2023-01-01,Alpha Corp,Technology,231.83,189.21,42.62,262.09,16.26
+2023-02-01,Alpha Corp,Technology,240.04,140.63,99.41,311.88,31.87
+2023-03-01,Alpha Corp,Technology,237.28,185.39,51.9,271.85,19.09
+2023-04-01,Alpha Corp,Technology,250.21,176.85,73.36,275.05,26.67
+2023-05-01,Alpha Corp,Technology,244.35,157.44,86.91,282.47,30.77
+2023-06-01,Alpha Corp,Technology,246.22,202.46,43.76,239.94,18.24
+2023-07-01,Alpha Corp,Technology,263.72,163.15,100.57,225.18,44.66
+2023-08-01,Alpha Corp,Technology,254.21,161.91,92.3,232.05,39.77
+2023-09-01,Alpha Corp,Technology,269.42,213.14,56.28,250.72,22.45
+2023-10-01,Alpha Corp,Technology,270.22,220.98,49.24,318.19,15.48
+2023-11-01,Alpha Corp,Technology,267.92,165.68,102.24,294.44,34.73
+2023-12-01,Alpha Corp,Technology,275.81,219.38,56.43,386.83,14.59
+2024-01-01,Alpha Corp,Technology,283.51,191.43,92.08,270.88,33.99
+2024-02-01,Alpha Corp,Technology,287.19,168.28,118.91,297.62,39.95
+2024-03-01,Alpha Corp,Technology,293.22,206.91,86.31,378.88,22.78
+2024-04-01,Alpha Corp,Technology,302.89,199.63,103.26,448.36,23.03
+2024-05-01,Alpha Corp,Technology,291.93,185.51,106.42,241.08,44.14
+2024-06-01,Alpha Corp,Technology,311.35,228.18,83.17,358.64,23.19
+2024-07-01,Alpha Corp,Technology,316.1,187.59,128.5,361.18,35.58
+2024-08-01,Alpha Corp,Technology,325.7,275.44,50.26,315.74,15.92
+2024-09-01,Alpha Corp,Technology,337.91,209.94,127.97,442.57,28.91
+2024-10-01,Alpha Corp,Technology,341.38,225.43,115.96,424.21,27.33
+2024-11-01,Alpha Corp,Technology,346.6,200.02,146.58,479.95,30.54
+2024-12-01,Alpha Corp,Technology,364.65,235.65,129.0,339.33,38.02
+2021-01-01,Beta Industries,Manufacturing,55.53,41.29,14.24,51.2,27.81
+2021-02-01,Beta Industries,Manufacturing,61.14,46.3,14.84,65.46,22.67
+2021-03-01,Beta Industries,Manufacturing,59.32,49.08,10.24,83.88,12.2
+2021-04-01,Beta Industries,Manufacturing,61.46,38.56,22.9,77.56,29.53
+2021-05-01,Beta Industries,Manufacturing,63.88,45.28,18.59,61.92,30.03
+2021-06-01,Beta Industries,Manufacturing,67.9,39.24,28.66,96.96,29.56
+2021-07-01,Beta Industries,Manufacturing,65.53,42.71,22.82,68.44,33.35
+2021-08-01,Beta Industries,Manufacturing,67.89,52.13,15.77,96.95,16.26
+2021-09-01,Beta Industries,Manufacturing,67.09,49.82,17.27,57.63,29.97
+2021-10-01,Beta Industries,Manufacturing,68.19,40.81,27.38,97.45,28.1
+2021-11-01,Beta Industries,Manufacturing,68.85,37.97,30.88,62.83,49.15
+2021-12-01,Beta Industries,Manufacturing,66.65,47.63,19.02,85.6,22.22
+2022-01-01,Beta Industries,Manufacturing,66.06,50.45,15.61,63.82,24.46
+2022-02-01,Beta Industries,Manufacturing,72.47,46.93,25.54,95.85,26.64
+2022-03-01,Beta Industries,Manufacturing,74.26,55.49,18.77,88.95,21.1
+2022-04-01,Beta Industries,Manufacturing,73.47,42.47,31.0,77.69,39.9
+2022-05-01,Beta Industries,Manufacturing,70.44,59.3,11.14,75.73,14.7
+2022-06-01,Beta Industries,Manufacturing,71.55,58.5,13.05,88.85,14.69
+2022-07-01,Beta Industries,Manufacturing,74.95,54.2,20.76,85.8,24.19
+2022-08-01,Beta Industries,Manufacturing,80.2,48.81,31.39,104.72,29.98
+2022-09-01,Beta Industries,Manufacturing,73.53,61.19,12.34,107.93,11.44
+2022-10-01,Beta Industries,Manufacturing,79.15,65.25,13.89,83.82,16.57
+2022-11-01,Beta Industries,Manufacturing,80.07,67.18,12.88,111.86,11.52
+2022-12-01,Beta Industries,Manufacturing,79.39,50.68,28.71,84.91,33.81
+2023-01-01,Beta Industries,Manufacturing,79.24,47.61,31.63,94.27,33.55
+2023-02-01,Beta Industries,Manufacturing,84.14,69.91,14.23,108.31,13.14
+2023-03-01,Beta Industries,Manufacturing,79.9,58.69,21.21,119.3,17.78
+2023-04-01,Beta Industries,Manufacturing,84.03,49.75,34.28,97.72,35.08
+2023-05-01,Beta Industries,Manufacturing,85.67,65.03,20.64,110.66,18.65
+2023-06-01,Beta Industries,Manufacturing,87.31,57.44,29.87,87.8,34.03
+2023-07-01,Beta Industries,Manufacturing,88.22,71.47,16.75,126.98,13.19
+2023-08-01,Beta Industries,Manufacturing,89.28,62.8,26.48,102.77,25.77
+2023-09-01,Beta Industries,Manufacturing,90.52,68.85,21.67,122.85,17.64
+2023-10-01,Beta Industries,Manufacturing,93.31,76.23,17.08,96.72,17.65
+2023-11-01,Beta Industries,Manufacturing,88.67,64.15,24.52,73.16,33.51
+2023-12-01,Beta Industries,Manufacturing,91.39,63.03,28.36,107.83,26.3
+2024-01-01,Beta Industries,Manufacturing,95.3,53.28,42.01,78.73,53.36
+2024-02-01,Beta Industries,Manufacturing,89.52,71.32,18.19,94.18,19.32
+2024-03-01,Beta Industries,Manufacturing,95.72,74.76,20.96,91.03,23.03
+2024-04-01,Beta Industries,Manufacturing,93.45,68.86,24.59,80.34,30.61
+2024-05-01,Beta Industries,Manufacturing,98.01,69.8,28.21,122.14,23.09
+2024-06-01,Beta Industries,Manufacturing,97.11,74.56,22.55,144.02,15.65
+2024-07-01,Beta Industries,Manufacturing,94.19,74.27,19.92,93.21,21.37
+2024-08-01,Beta Industries,Manufacturing,102.07,69.58,32.49,87.26,37.23
+2024-09-01,Beta Industries,Manufacturing,104.27,70.14,34.13,96.06,35.53
+2024-10-01,Beta Industries,Manufacturing,106.61,63.64,42.97,103.96,41.33
+2024-11-01,Beta Industries,Manufacturing,110.59,82.73,27.86,110.14,25.3
+2024-12-01,Beta Industries,Manufacturing,107.78,90.16,17.63,141.9,12.42
+2021-01-01,Gamma Tech,Technology,174.26,114.45,59.81,231.85,25.8
+2021-02-01,Gamma Tech,Technology,186.4,103.33,83.08,164.27,50.57
+2021-03-01,Gamma Tech,Technology,197.56,136.76,60.8,171.58,35.44
+2021-04-01,Gamma Tech,Technology,203.12,141.68,61.45,229.82,26.74
+2021-05-01,Gamma Tech,Technology,195.91,131.17,64.74,241.18,26.84
+2021-06-01,Gamma Tech,Technology,189.03,139.98,49.05,157.22,31.2
+2021-07-01,Gamma Tech,Technology,216.92,152.05,64.87,303.59,21.37
+2021-08-01,Gamma Tech,Technology,192.36,143.81,48.55,175.82,27.61
+2021-09-01,Gamma Tech,Technology,210.37,117.38,92.99,254.56,36.53
+2021-10-01,Gamma Tech,Technology,205.47,170.96,34.5,247.14,13.96
+2021-11-01,Gamma Tech,Technology,228.75,157.26,71.49,270.36,26.44
+2021-12-01,Gamma Tech,Technology,204.82,170.5,34.32,219.21,15.66
+2022-01-01,Gamma Tech,Technology,221.87,126.77,95.1,227.04,41.89
+2022-02-01,Gamma Tech,Technology,216.12,173.64,42.48,176.42,24.08
+2022-03-01,Gamma Tech,Technology,219.24,128.35,90.88,282.31,32.19
+2022-04-01,Gamma Tech,Technology,235.64,174.06,61.58,333.25,18.48
+2022-05-01,Gamma Tech,Technology,238.17,151.14,87.02,220.12,39.54
+2022-06-01,Gamma Tech,Technology,239.35,185.54,53.81,326.66,16.47
+2022-07-01,Gamma Tech,Technology,236.16,156.25,79.92,317.28,25.19
+2022-08-01,Gamma Tech,Technology,240.45,156.83,83.62,349.02,23.96
+2022-09-01,Gamma Tech,Technology,240.31,186.3,54.01,319.18,16.92
+2022-10-01,Gamma Tech,Technology,255.78,148.59,107.19,366.23,29.27
+2022-11-01,Gamma Tech,Technology,260.83,168.5,92.33,372.17,24.81
+2022-12-01,Gamma Tech,Technology,251.86,167.93,83.93,203.4,41.26
+2023-01-01,Gamma Tech,Technology,257.89,215.39,42.51,309.83,13.72
+2023-02-01,Gamma Tech,Technology,256.82,189.93,66.89,286.08,23.38
+2023-03-01,Gamma Tech,Technology,251.82,189.31,62.51,334.08,18.71
+2023-04-01,Gamma Tech,Technology,253.16,199.36,53.8,342.46,15.71
+2023-05-01,Gamma Tech,Technology,267.83,151.93,115.9,317.29,36.53
+2023-06-01,Gamma Tech,Technology,262.87,179.4,83.47,373.64,22.34
+2023-07-01,Gamma Tech,Technology,266.97,158.29,108.68,355.89,30.54
+2023-08-01,Gamma Tech,Technology,275.19,202.39,72.8,239.63,30.38
+2023-09-01,Gamma Tech,Technology,284.04,162.42,121.62,390.65,31.13
+2023-10-01,Gamma Tech,Technology,280.51,213.71,66.8,240.38,27.79
+2023-11-01,Gamma Tech,Technology,275.24,218.49,56.74,402.69,14.09
+2023-12-01,Gamma Tech,Technology,279.27,236.2,43.06,370.69,11.62
+2024-01-01,Gamma Tech,Technology,289.46,226.69,62.77,344.71,18.21
+2024-02-01,Gamma Tech,Technology,297.96,201.8,96.16,427.4,22.5
+2024-03-01,Gamma Tech,Technology,303.58,168.0,135.58,342.45,39.59
+2024-04-01,Gamma Tech,Technology,298.14,169.01,129.13,263.31,49.04
+2024-05-01,Gamma Tech,Technology,314.52,243.38,71.14,380.05,18.72
+2024-06-01,Gamma Tech,Technology,307.61,257.97,49.63,326.8,15.19
+2024-07-01,Gamma Tech,Technology,325.89,201.1,124.79,480.45,25.97
+2024-08-01,Gamma Tech,Technology,319.63,176.96,142.67,472.71,30.18
+2024-09-01,Gamma Tech,Technology,329.61,188.58,141.03,391.48,36.02
+2024-10-01,Gamma Tech,Technology,331.75,278.94,52.82,386.88,13.65
+2024-11-01,Gamma Tech,Technology,349.5,239.89,109.62,433.14,25.31
+2024-12-01,Gamma Tech,Technology,349.11,253.2,95.9,499.5,19.2
+2021-01-01,Delta Energy,Energy,68.08,43.11,24.97,63.43,39.37
+2021-02-01,Delta Energy,Energy,59.27,40.84,18.43,62.08,29.68
+2021-03-01,Delta Energy,Energy,59.81,50.38,9.43,89.14,10.58
+2021-04-01,Delta Energy,Energy,63.0,47.84,15.15,74.04,20.47
+2021-05-01,Delta Energy,Energy,65.85,49.74,16.11,60.17,26.76
+2021-06-01,Delta Energy,Energy,61.56,50.68,10.88,84.69,12.85
+2021-07-01,Delta Energy,Energy,59.68,49.53,10.16,83.93,12.1
+2021-08-01,Delta Energy,Energy,69.76,39.31,30.44,57.09,53.32
+2021-09-01,Delta Energy,Energy,68.16,57.68,10.48,61.71,16.99
+2021-10-01,Delta Energy,Energy,63.51,46.25,17.26,67.74,25.48
+2021-11-01,Delta Energy,Energy,65.01,43.85,21.17,64.45,32.84
+2021-12-01,Delta Energy,Energy,69.58,39.44,30.13,97.78,30.82
+2022-01-01,Delta Energy,Energy,66.21,51.69,14.52,96.76,15.01
+2022-02-01,Delta Energy,Energy,66.76,53.73,13.02,64.97,20.05
+2022-03-01,Delta Energy,Energy,63.76,53.32,10.44,78.06,13.38
+2022-04-01,Delta Energy,Energy,67.02,41.46,25.56,85.13,30.03
+2022-05-01,Delta Energy,Energy,63.18,36.9,26.28,80.25,32.75
+2022-06-01,Delta Energy,Energy,72.24,51.01,21.23,96.85,21.92
+2022-07-01,Delta Energy,Energy,72.37,51.79,20.58,86.31,23.85
+2022-08-01,Delta Energy,Energy,69.4,56.42,12.98,75.12,17.28
+2022-09-01,Delta Energy,Energy,71.61,54.51,17.1,67.96,25.16
+2022-10-01,Delta Energy,Energy,74.27,43.89,30.38,60.17,50.49
+2022-11-01,Delta Energy,Energy,73.76,49.25,24.51,81.6,30.04
+2022-12-01,Delta Energy,Energy,65.56,53.84,11.72,68.43,17.13
+2023-01-01,Delta Energy,Energy,76.02,50.85,25.16,93.92,26.79
+2023-02-01,Delta Energy,Energy,72.09,58.3,13.79,105.59,13.06
+2023-03-01,Delta Energy,Energy,67.09,46.14,20.95,99.7,21.01
+2023-04-01,Delta Energy,Energy,72.6,50.66,21.94,74.79,29.34
+2023-05-01,Delta Energy,Energy,69.23,39.65,29.58,61.63,47.99
+2023-06-01,Delta Energy,Energy,75.76,44.58,31.18,68.66,45.41
+2023-07-01,Delta Energy,Energy,75.29,45.52,29.77,78.45,37.95
+2023-08-01,Delta Energy,Energy,71.75,58.77,12.98,81.21,15.99
+2023-09-01,Delta Energy,Energy,72.09,43.81,28.28,59.73,47.35
+2023-10-01,Delta Energy,Energy,77.13,46.33,30.8,76.75,40.13
+2023-11-01,Delta Energy,Energy,75.74,46.34,29.39,79.9,36.79
+2023-12-01,Delta Energy,Energy,73.37,51.44,21.94,94.16,23.3
+2024-01-01,Delta Energy,Energy,74.89,60.81,14.07,108.18,13.01
+2024-02-01,Delta Energy,Energy,78.18,44.43,33.75,77.69,43.44
+2024-03-01,Delta Energy,Energy,79.9,48.37,31.53,75.63,41.69
+2024-04-01,Delta Energy,Energy,80.83,53.44,27.39,92.08,29.75
+2024-05-01,Delta Energy,Energy,74.36,51.21,23.14,98.39,23.52
+2024-06-01,Delta Energy,Energy,83.7,46.96,36.74,81.75,44.95
+2024-07-01,Delta Energy,Energy,81.78,57.53,24.25,95.88,25.29
+2024-08-01,Delta Energy,Energy,81.47,47.43,34.04,90.69,37.54
+2024-09-01,Delta Energy,Energy,76.1,48.0,28.1,80.98,34.7
+2024-10-01,Delta Energy,Energy,82.17,45.69,36.48,84.26,43.3
+2024-11-01,Delta Energy,Energy,80.07,46.92,33.16,113.98,29.09
+2024-12-01,Delta Energy,Energy,79.26,57.71,21.55,101.09,21.32
+2021-01-01,Epsilon Retail,Retail,248.25,180.24,68.01,328.14,20.73
+2021-02-01,Epsilon Retail,Retail,239.23,162.56,76.67,212.75,36.04
+2021-03-01,Epsilon Retail,Retail,241.67,179.75,61.92,289.9,21.36
+2021-04-01,Epsilon Retail,Retail,238.04,156.35,81.69,354.82,23.02
+2021-05-01,Epsilon Retail,Retail,240.52,139.63,100.89,218.15,46.25
+2021-06-01,Epsilon Retail,Retail,267.47,166.85,100.63,244.06,41.23
+2021-07-01,Epsilon Retail,Retail,255.92,154.06,101.85,365.38,27.88
+2021-08-01,Epsilon Retail,Retail,255.31,146.57,108.75,297.99,36.49
+2021-09-01,Epsilon Retail,Retail,272.13,158.82,113.31,293.49,38.61
+2021-10-01,Epsilon Retail,Retail,270.98,227.85,43.13,380.95,11.32
+2021-11-01,Epsilon Retail,Retail,267.31,160.72,106.58,338.96,31.44
+2021-12-01,Epsilon Retail,Retail,286.65,237.58,49.07,341.04,14.39
+2022-01-01,Epsilon Retail,Retail,259.58,202.69,56.89,241.65,23.54
+2022-02-01,Epsilon Retail,Retail,289.87,187.58,102.29,318.22,32.15
+2022-03-01,Epsilon Retail,Retail,265.99,155.46,110.53,326.49,33.86
+2022-04-01,Epsilon Retail,Retail,289.71,184.42,105.28,349.64,30.11
+2022-05-01,Epsilon Retail,Retail,291.32,206.77,84.55,243.63,34.7
+2022-06-01,Epsilon Retail,Retail,280.22,182.42,97.8,250.55,39.04
+2022-07-01,Epsilon Retail,Retail,310.73,194.64,116.09,396.82,29.26
+2022-08-01,Epsilon Retail,Retail,294.28,228.97,65.31,358.12,18.24
+2022-09-01,Epsilon Retail,Retail,274.01,179.38,94.63,397.49,23.81
+2022-10-01,Epsilon Retail,Retail,297.9,238.08,59.82,439.56,13.61
+2022-11-01,Epsilon Retail,Retail,315.57,262.4,53.17,292.49,18.18
+2022-12-01,Epsilon Retail,Retail,306.77,174.84,131.93,404.56,32.61
+2023-01-01,Epsilon Retail,Retail,331.96,196.5,135.46,450.37,30.08
+2023-02-01,Epsilon Retail,Retail,324.0,197.8,126.2,296.31,42.59
+2023-03-01,Epsilon Retail,Retail,329.09,246.67,82.42,383.76,21.48
+2023-04-01,Epsilon Retail,Retail,322.4,212.02,110.37,455.88,24.21
+2023-05-01,Epsilon Retail,Retail,345.89,235.8,110.08,367.97,29.92
+2023-06-01,Epsilon Retail,Retail,329.45,226.93,102.52,333.07,30.78
+2023-07-01,Epsilon Retail,Retail,338.23,209.59,128.64,483.57,26.6
+2023-08-01,Epsilon Retail,Retail,362.27,240.97,121.3,427.65,28.36
+2023-09-01,Epsilon Retail,Retail,348.03,203.62,144.41,507.39,28.46
+2023-10-01,Epsilon Retail,Retail,358.26,264.51,93.75,370.6,25.3
+2023-11-01,Epsilon Retail,Retail,356.57,262.44,94.13,418.4,22.5
+2023-12-01,Epsilon Retail,Retail,350.94,287.13,63.81,474.47,13.45
+2024-01-01,Epsilon Retail,Retail,354.12,221.16,132.96,467.71,28.43
+2024-02-01,Epsilon Retail,Retail,353.06,197.73,155.32,423.29,36.69
+2024-03-01,Epsilon Retail,Retail,373.3,243.62,129.67,513.24,25.27
+2024-04-01,Epsilon Retail,Retail,375.35,218.9,156.45,522.68,29.93
+2024-05-01,Epsilon Retail,Retail,371.77,293.4,78.37,336.43,23.3
+2024-06-01,Epsilon Retail,Retail,366.93,227.05,139.88,479.06,29.2
+2024-07-01,Epsilon Retail,Retail,393.76,298.54,95.22,464.6,20.49
+2024-08-01,Epsilon Retail,Retail,403.78,252.58,151.2,420.73,35.94
+2024-09-01,Epsilon Retail,Retail,369.07,254.14,114.93,539.99,21.28
+2024-10-01,Epsilon Retail,Retail,413.66,246.54,167.12,500.68,33.38
+2024-11-01,Epsilon Retail,Retail,429.54,238.58,190.96,605.86,31.52
+2024-12-01,Epsilon Retail,Retail,405.08,336.07,69.01,484.31,14.25
+2021-01-01,Zeta Pharma,Healthcare,215.3,155.64,59.66,263.68,22.63
+2021-02-01,Zeta Pharma,Healthcare,233.6,158.2,75.4,307.3,24.54
+2021-03-01,Zeta Pharma,Healthcare,221.45,187.23,34.23,307.21,11.14
+2021-04-01,Zeta Pharma,Healthcare,235.44,138.3,97.14,340.12,28.56
+2021-05-01,Zeta Pharma,Healthcare,241.87,175.93,65.94,261.05,25.26
+2021-06-01,Zeta Pharma,Healthcare,257.98,146.13,111.85,266.91,41.91
+2021-07-01,Zeta Pharma,Healthcare,238.92,169.93,69.0,344.98,20.0
+2021-08-01,Zeta Pharma,Healthcare,236.35,154.55,81.8,246.49,33.19
+2021-09-01,Zeta Pharma,Healthcare,255.86,157.96,97.9,285.72,34.26
+2021-10-01,Zeta Pharma,Healthcare,283.14,167.69,115.45,261.47,44.15
+2021-11-01,Zeta Pharma,Healthcare,239.11,197.13,41.97,251.94,16.66
+2021-12-01,Zeta Pharma,Healthcare,273.72,198.22,75.5,340.11,22.2
+2022-01-01,Zeta Pharma,Healthcare,276.39,159.09,117.3,413.98,28.33
+2022-02-01,Zeta Pharma,Healthcare,272.18,190.71,81.48,331.18,24.6
+2022-03-01,Zeta Pharma,Healthcare,290.01,177.77,112.24,414.32,27.09
+2022-04-01,Zeta Pharma,Healthcare,294.96,180.38,114.58,275.34,41.61
+2022-05-01,Zeta Pharma,Healthcare,300.33,216.07,84.26,254.08,33.16
+2022-06-01,Zeta Pharma,Healthcare,300.18,234.94,65.24,335.39,19.45
+2022-07-01,Zeta Pharma,Healthcare,282.23,189.16,93.07,336.35,27.67
+2022-08-01,Zeta Pharma,Healthcare,329.95,196.84,133.11,305.98,43.5
+2022-09-01,Zeta Pharma,Healthcare,307.83,228.78,79.05,334.34,23.64
+2022-10-01,Zeta Pharma,Healthcare,320.89,178.93,141.95,291.78,48.65
+2022-11-01,Zeta Pharma,Healthcare,346.2,193.22,152.97,330.75,46.25
+2022-12-01,Zeta Pharma,Healthcare,356.18,220.59,135.59,452.47,29.97
+2023-01-01,Zeta Pharma,Healthcare,342.39,255.36,87.03,330.99,26.29
+2023-02-01,Zeta Pharma,Healthcare,360.2,208.86,151.35,349.48,43.31
+2023-03-01,Zeta Pharma,Healthcare,369.26,295.06,74.2,398.07,18.64
+2023-04-01,Zeta Pharma,Healthcare,372.96,279.88,93.08,351.89,26.45
+2023-05-01,Zeta Pharma,Healthcare,381.45,211.28,170.16,327.99,51.88
+2023-06-01,Zeta Pharma,Healthcare,378.28,231.64,146.63,309.65,47.35
+2023-07-01,Zeta Pharma,Healthcare,392.47,265.48,126.99,559.22,22.71
+2023-08-01,Zeta Pharma,Healthcare,382.0,303.78,78.22,397.0,19.7
+2023-09-01,Zeta Pharma,Healthcare,395.46,287.54,107.93,390.58,27.63
+2023-10-01,Zeta Pharma,Healthcare,395.05,291.25,103.8,429.25,24.18
+2023-11-01,Zeta Pharma,Healthcare,395.11,252.21,142.9,578.41,24.7
+2023-12-01,Zeta Pharma,Healthcare,445.21,346.86,98.36,399.83,24.6
+2024-01-01,Zeta Pharma,Healthcare,433.67,354.9,78.77,589.75,13.36
+2024-02-01,Zeta Pharma,Healthcare,454.5,307.95,146.55,370.75,39.53
+2024-03-01,Zeta Pharma,Healthcare,453.78,335.81,117.96,444.94,26.51
+2024-04-01,Zeta Pharma,Healthcare,439.5,260.1,179.4,608.47,29.48
+2024-05-01,Zeta Pharma,Healthcare,467.38,281.13,186.25,462.99,40.23
+2024-06-01,Zeta Pharma,Healthcare,479.72,266.49,213.23,690.8,30.87
+2024-07-01,Zeta Pharma,Healthcare,486.83,307.79,179.05,578.32,30.96
+2024-08-01,Zeta Pharma,Healthcare,482.65,359.78,122.87,666.46,18.44
+2024-09-01,Zeta Pharma,Healthcare,505.63,369.19,136.44,639.89,21.32
+2024-10-01,Zeta Pharma,Healthcare,523.09,315.22,207.87,753.3,27.59
+2024-11-01,Zeta Pharma,Healthcare,500.93,353.5,147.44,417.22,35.34
+2024-12-01,Zeta Pharma,Healthcare,516.89,310.07,206.81,680.55,30.39
+2021-01-01,Theta Motors,Automotive,68.54,43.63,24.91,71.89,34.64
+2021-02-01,Theta Motors,Automotive,66.61,51.0,15.61,67.14,23.24
+2021-03-01,Theta Motors,Automotive,69.12,51.78,17.34,100.62,17.23
+2021-04-01,Theta Motors,Automotive,82.68,63.65,19.04,78.58,24.22
+2021-05-01,Theta Motors,Automotive,72.25,50.5,21.76,87.99,24.72
+2021-06-01,Theta Motors,Automotive,75.65,49.19,26.46,101.34,26.11
+2021-07-01,Theta Motors,Automotive,76.03,57.52,18.51,83.96,22.05
+2021-08-01,Theta Motors,Automotive,83.36,52.01,31.35,114.49,27.38
+2021-09-01,Theta Motors,Automotive,80.3,50.72,29.58,97.41,30.36
+2021-10-01,Theta Motors,Automotive,82.47,54.29,28.18,71.27,39.54
+2021-11-01,Theta Motors,Automotive,79.76,48.3,31.46,94.06,33.45
+2021-12-01,Theta Motors,Automotive,83.21,67.56,15.65,109.22,14.33
+2022-01-01,Theta Motors,Automotive,84.0,63.65,20.36,117.14,17.38
+2022-02-01,Theta Motors,Automotive,86.87,54.28,32.58,99.26,32.83
+2022-03-01,Theta Motors,Automotive,85.6,51.72,33.88,102.51,33.05
+2022-04-01,Theta Motors,Automotive,85.86,70.81,15.06,70.73,21.29
+2022-05-01,Theta Motors,Automotive,82.37,68.15,14.22,121.89,11.67
+2022-06-01,Theta Motors,Automotive,90.99,75.82,15.17,102.99,14.73
+2022-07-01,Theta Motors,Automotive,88.45,57.12,31.34,122.09,25.67
+2022-08-01,Theta Motors,Automotive,89.56,50.25,39.31,109.03,36.05
+2022-09-01,Theta Motors,Automotive,89.03,51.02,38.01,114.62,33.16
+2022-10-01,Theta Motors,Automotive,90.6,59.07,31.53,118.45,26.62
+2022-11-01,Theta Motors,Automotive,92.18,65.62,26.56,124.76,21.29
+2022-12-01,Theta Motors,Automotive,92.44,59.68,32.76,114.45,28.62
+2023-01-01,Theta Motors,Automotive,96.11,59.58,36.53,78.53,46.52
+2023-02-01,Theta Motors,Automotive,99.5,80.7,18.8,81.08,23.19
+2023-03-01,Theta Motors,Automotive,97.84,81.38,16.47,132.98,12.38
+2023-04-01,Theta Motors,Automotive,102.54,87.09,15.44,107.2,14.41
+2023-05-01,Theta Motors,Automotive,98.17,68.13,30.04,121.66,24.7
+2023-06-01,Theta Motors,Automotive,106.23,86.27,19.96,158.16,12.62
+2023-07-01,Theta Motors,Automotive,100.93,68.27,32.66,132.86,24.58
+2023-08-01,Theta Motors,Automotive,108.92,67.71,41.21,95.56,43.13
+2023-09-01,Theta Motors,Automotive,100.32,64.1,36.23,96.67,37.48
+2023-10-01,Theta Motors,Automotive,103.14,58.03,45.11,83.8,53.83
+2023-11-01,Theta Motors,Automotive,107.59,71.58,36.01,137.26,26.24
+2023-12-01,Theta Motors,Automotive,109.88,67.63,42.25,160.97,26.25
+2024-01-01,Theta Motors,Automotive,113.89,94.92,18.97,128.38,14.78
+2024-02-01,Theta Motors,Automotive,111.03,81.5,29.53,101.81,29.01
+2024-03-01,Theta Motors,Automotive,113.77,83.32,30.45,131.85,23.1
+2024-04-01,Theta Motors,Automotive,116.33,72.03,44.3,107.44,41.23
+2024-05-01,Theta Motors,Automotive,113.82,89.22,24.6,118.95,20.68
+2024-06-01,Theta Motors,Automotive,115.5,65.53,49.97,170.75,29.27
+2024-07-01,Theta Motors,Automotive,123.95,94.05,29.9,112.51,26.57
+2024-08-01,Theta Motors,Automotive,118.39,94.09,24.3,113.31,21.44
+2024-09-01,Theta Motors,Automotive,122.63,89.26,33.37,147.9,22.56
+2024-10-01,Theta Motors,Automotive,118.07,68.18,49.89,166.98,29.88
+2024-11-01,Theta Motors,Automotive,122.8,100.28,22.52,180.39,12.48
+2024-12-01,Theta Motors,Automotive,125.15,101.2,23.95,171.04,14.0
+2021-01-01,Iota Foods,Consumer Goods,211.92,140.25,71.67,208.07,34.45
+2021-02-01,Iota Foods,Consumer Goods,207.73,159.33,48.4,238.29,20.31
+2021-03-01,Iota Foods,Consumer Goods,213.21,171.71,41.5,244.47,16.98
+2021-04-01,Iota Foods,Consumer Goods,223.64,155.25,68.4,271.66,25.18
+2021-05-01,Iota Foods,Consumer Goods,218.55,164.66,53.89,261.39,20.62
+2021-06-01,Iota Foods,Consumer Goods,237.52,149.66,87.85,336.09,26.14
+2021-07-01,Iota Foods,Consumer Goods,235.26,189.43,45.84,331.04,13.85
+2021-08-01,Iota Foods,Consumer Goods,243.43,185.61,57.81,337.37,17.14
+2021-09-01,Iota Foods,Consumer Goods,245.63,180.68,64.95,325.93,19.93
+2021-10-01,Iota Foods,Consumer Goods,249.41,149.05,100.37,353.32,28.41
+2021-11-01,Iota Foods,Consumer Goods,237.84,154.73,83.12,314.06,26.47
+2021-12-01,Iota Foods,Consumer Goods,243.95,145.94,98.01,334.84,29.27
+2022-01-01,Iota Foods,Consumer Goods,245.47,135.48,109.99,245.69,44.77
+2022-02-01,Iota Foods,Consumer Goods,261.64,192.32,69.31,389.01,17.82
+2022-03-01,Iota Foods,Consumer Goods,236.27,174.89,61.38,278.33,22.05
+2022-04-01,Iota Foods,Consumer Goods,261.67,205.13,56.53,228.93,24.69
+2022-05-01,Iota Foods,Consumer Goods,259.26,217.5,41.77,269.45,15.5
+2022-06-01,Iota Foods,Consumer Goods,276.4,204.48,71.92,401.45,17.92
+2022-07-01,Iota Foods,Consumer Goods,257.74,165.03,92.71,333.96,27.76
+2022-08-01,Iota Foods,Consumer Goods,267.6,152.59,115.01,323.13,35.59
+2022-09-01,Iota Foods,Consumer Goods,281.35,158.6,122.74,396.72,30.94
+2022-10-01,Iota Foods,Consumer Goods,255.37,215.03,40.34,377.49,10.69
+2022-11-01,Iota Foods,Consumer Goods,268.79,208.98,59.81,219.66,27.23
+2022-12-01,Iota Foods,Consumer Goods,281.95,156.94,125.0,289.43,43.19
+2023-01-01,Iota Foods,Consumer Goods,297.84,224.86,72.97,331.23,22.03
+2023-02-01,Iota Foods,Consumer Goods,283.62,179.27,104.35,424.86,24.56
+2023-03-01,Iota Foods,Consumer Goods,272.1,163.01,109.09,369.07,29.56
+2023-04-01,Iota Foods,Consumer Goods,267.38,202.7,64.68,255.22,25.34
+2023-05-01,Iota Foods,Consumer Goods,296.82,221.54,75.29,294.24,25.59
+2023-06-01,Iota Foods,Consumer Goods,291.56,243.53,48.03,264.08,18.19
+2023-07-01,Iota Foods,Consumer Goods,307.95,208.15,99.8,384.01,25.99
+2023-08-01,Iota Foods,Consumer Goods,303.39,203.06,100.34,300.95,33.34
+2023-09-01,Iota Foods,Consumer Goods,307.46,251.57,55.89,295.46,18.92
+2023-10-01,Iota Foods,Consumer Goods,314.08,192.82,121.26,258.11,46.98
+2023-11-01,Iota Foods,Consumer Goods,301.67,244.14,57.53,341.26,16.86
+2023-12-01,Iota Foods,Consumer Goods,334.1,280.79,53.3,310.66,17.16
+2024-01-01,Iota Foods,Consumer Goods,325.98,254.68,71.3,453.55,15.72
+2024-02-01,Iota Foods,Consumer Goods,330.89,257.54,73.36,409.76,17.9
+2024-03-01,Iota Foods,Consumer Goods,331.85,261.82,70.03,377.33,18.56
+2024-04-01,Iota Foods,Consumer Goods,341.11,199.61,141.49,302.78,46.73
+2024-05-01,Iota Foods,Consumer Goods,330.12,201.43,128.7,377.7,34.07
+2024-06-01,Iota Foods,Consumer Goods,360.47,205.2,155.27,435.23,35.68
+2024-07-01,Iota Foods,Consumer Goods,354.12,227.74,126.38,396.14,31.9
+2024-08-01,Iota Foods,Consumer Goods,342.12,189.36,152.76,291.04,52.49
+2024-09-01,Iota Foods,Consumer Goods,348.26,254.23,94.03,349.71,26.89
+2024-10-01,Iota Foods,Consumer Goods,331.23,251.24,79.99,464.41,17.22
+2024-11-01,Iota Foods,Consumer Goods,350.9,218.48,132.43,523.08,25.32
+2024-12-01,Iota Foods,Consumer Goods,364.87,216.28,148.59,419.32,35.44
+2021-01-01,Kappa Steel,Manufacturing,202.28,131.06,71.21,235.13,30.29
+2021-02-01,Kappa Steel,Manufacturing,207.75,119.74,88.01,217.19,40.52
+2021-03-01,Kappa Steel,Manufacturing,200.21,144.2,56.01,256.79,21.81
+2021-04-01,Kappa Steel,Manufacturing,210.59,166.41,44.19,197.98,22.32
+2021-05-01,Kappa Steel,Manufacturing,230.84,129.15,101.69,335.96,30.27
+2021-06-01,Kappa Steel,Manufacturing,229.09,129.57,99.52,270.08,36.85
+2021-07-01,Kappa Steel,Manufacturing,229.93,175.72,54.21,312.98,17.32
+2021-08-01,Kappa Steel,Manufacturing,230.01,149.93,80.08,315.2,25.41
+2021-09-01,Kappa Steel,Manufacturing,242.7,166.42,76.28,303.5,25.13
+2021-10-01,Kappa Steel,Manufacturing,234.54,166.03,68.5,307.74,22.26
+2021-11-01,Kappa Steel,Manufacturing,229.19,186.0,43.19,218.52,19.77
+2021-12-01,Kappa Steel,Manufacturing,234.29,197.45,36.84,242.68,15.18
+2022-01-01,Kappa Steel,Manufacturing,248.02,185.42,62.6,284.9,21.97
+2022-02-01,Kappa Steel,Manufacturing,240.28,172.19,68.09,313.19,21.74
+2022-03-01,Kappa Steel,Manufacturing,250.07,152.51,97.56,319.13,30.57
+2022-04-01,Kappa Steel,Manufacturing,254.49,145.48,109.01,209.05,52.14
+2022-05-01,Kappa Steel,Manufacturing,254.27,206.08,48.19,332.84,14.48
+2022-06-01,Kappa Steel,Manufacturing,243.52,188.19,55.32,267.35,20.69
+2022-07-01,Kappa Steel,Manufacturing,251.79,213.08,38.7,208.5,18.56
+2022-08-01,Kappa Steel,Manufacturing,253.14,205.07,48.07,305.05,15.76
+2022-09-01,Kappa Steel,Manufacturing,289.18,201.27,87.91,408.15,21.54
+2022-10-01,Kappa Steel,Manufacturing,271.17,222.42,48.75,296.99,16.42
+2022-11-01,Kappa Steel,Manufacturing,286.49,235.99,50.51,271.44,18.61
+2022-12-01,Kappa Steel,Manufacturing,267.71,197.27,70.44,332.52,21.18
+2023-01-01,Kappa Steel,Manufacturing,281.51,215.28,66.23,404.34,16.38
+2023-02-01,Kappa Steel,Manufacturing,296.08,178.81,117.28,286.1,40.99
+2023-03-01,Kappa Steel,Manufacturing,295.97,184.73,111.23,417.17,26.66
+2023-04-01,Kappa Steel,Manufacturing,312.47,213.6,98.87,362.58,27.27
+2023-05-01,Kappa Steel,Manufacturing,316.54,189.62,126.91,339.88,37.34
+2023-06-01,Kappa Steel,Manufacturing,291.37,244.99,46.38,285.74,16.23
+2023-07-01,Kappa Steel,Manufacturing,300.36,234.89,65.46,267.8,24.45
+2023-08-01,Kappa Steel,Manufacturing,329.97,277.48,52.48,368.79,14.23
+2023-09-01,Kappa Steel,Manufacturing,323.44,210.59,112.85,446.42,25.28
+2023-10-01,Kappa Steel,Manufacturing,314.17,213.4,100.76,306.03,32.93
+2023-11-01,Kappa Steel,Manufacturing,347.33,208.44,138.89,318.62,43.59
+2023-12-01,Kappa Steel,Manufacturing,345.44,193.79,151.65,454.42,33.37
+2024-01-01,Kappa Steel,Manufacturing,338.29,271.73,66.56,461.41,14.42
+2024-02-01,Kappa Steel,Manufacturing,367.72,266.82,100.9,517.67,19.49
+2024-03-01,Kappa Steel,Manufacturing,348.8,220.07,128.73,292.98,43.94
+2024-04-01,Kappa Steel,Manufacturing,354.48,251.45,103.03,515.99,19.97
+2024-05-01,Kappa Steel,Manufacturing,369.1,238.01,131.09,426.33,30.75
+2024-06-01,Kappa Steel,Manufacturing,365.97,205.85,160.12,330.78,48.41
+2024-07-01,Kappa Steel,Manufacturing,381.43,261.82,119.61,442.81,27.01
+2024-08-01,Kappa Steel,Manufacturing,380.94,265.38,115.56,482.57,23.95
+2024-09-01,Kappa Steel,Manufacturing,394.14,240.65,153.5,501.11,30.63
+2024-10-01,Kappa Steel,Manufacturing,377.67,317.61,60.06,326.96,18.37
+2024-11-01,Kappa Steel,Manufacturing,387.49,314.04,73.45,358.04,20.51
+2024-12-01,Kappa Steel,Manufacturing,419.1,317.59,101.51,581.15,17.47
+2021-01-01,Lambda Media,Media,320.54,259.85,60.69,384.47,15.78
+2021-02-01,Lambda Media,Media,289.33,161.77,127.56,420.01,30.37
+2021-03-01,Lambda Media,Media,310.03,190.58,119.45,391.01,30.55
+2021-04-01,Lambda Media,Media,315.31,210.68,104.63,395.98,26.42
+2021-05-01,Lambda Media,Media,306.83,260.75,46.08,255.82,18.01
+2021-06-01,Lambda Media,Media,295.93,249.52,46.42,321.04,14.46
+2021-07-01,Lambda Media,Media,315.61,227.27,88.34,415.63,21.25
+2021-08-01,Lambda Media,Media,321.4,261.48,59.92,348.04,17.22
+2021-09-01,Lambda Media,Media,336.79,266.86,69.93,449.14,15.57
+2021-10-01,Lambda Media,Media,306.68,242.07,64.6,338.85,19.07
+2021-11-01,Lambda Media,Media,326.63,233.0,93.63,262.62,35.65
+2021-12-01,Lambda Media,Media,335.17,216.98,118.19,354.11,33.38
+2022-01-01,Lambda Media,Media,360.85,240.53,120.32,402.02,29.93
+2022-02-01,Lambda Media,Media,330.64,205.42,125.23,350.9,35.69
+2022-03-01,Lambda Media,Media,371.05,273.03,98.01,417.22,23.49
+2022-04-01,Lambda Media,Media,366.86,243.57,123.29,515.19,23.93
+2022-05-01,Lambda Media,Media,321.58,179.34,142.24,334.08,42.58
+2022-06-01,Lambda Media,Media,395.11,262.38,132.74,426.4,31.13
+2022-07-01,Lambda Media,Media,382.03,279.79,102.24,510.17,20.04
+2022-08-01,Lambda Media,Media,407.45,323.47,83.98,530.77,15.82
+2022-09-01,Lambda Media,Media,388.61,242.12,146.49,563.06,26.02
+2022-10-01,Lambda Media,Media,387.05,219.88,167.18,562.81,29.7
+2022-11-01,Lambda Media,Media,377.6,262.72,114.88,369.95,31.05
+2022-12-01,Lambda Media,Media,389.8,247.7,142.1,395.69,35.91
+2023-01-01,Lambda Media,Media,401.89,258.58,143.32,493.22,29.06
+2023-02-01,Lambda Media,Media,424.82,324.92,99.9,420.93,23.73
+2023-03-01,Lambda Media,Media,396.51,239.63,156.88,506.25,30.99
+2023-04-01,Lambda Media,Media,413.09,249.69,163.41,482.33,33.88
+2023-05-01,Lambda Media,Media,413.52,297.82,115.71,405.08,28.56
+2023-06-01,Lambda Media,Media,432.6,362.9,69.7,492.51,14.15
+2023-07-01,Lambda Media,Media,437.22,246.16,191.05,543.55,35.15
+2023-08-01,Lambda Media,Media,459.6,383.96,75.64,561.23,13.48
+2023-09-01,Lambda Media,Media,446.93,276.39,170.54,423.89,40.23
+2023-10-01,Lambda Media,Media,453.05,332.22,120.83,492.8,24.52
+2023-11-01,Lambda Media,Media,441.0,345.82,95.19,437.64,21.75
+2023-12-01,Lambda Media,Media,455.3,362.78,92.52,499.29,18.53
+2024-01-01,Lambda Media,Media,462.08,340.63,121.45,515.79,23.55
+2024-02-01,Lambda Media,Media,482.31,350.15,132.16,442.57,29.86
+2024-03-01,Lambda Media,Media,494.07,303.86,190.21,428.36,44.4
+2024-04-01,Lambda Media,Media,497.7,277.27,220.44,621.82,35.45
+2024-05-01,Lambda Media,Media,512.45,317.51,194.94,550.18,35.43
+2024-06-01,Lambda Media,Media,537.26,391.31,145.95,616.63,23.67
+2024-07-01,Lambda Media,Media,501.2,340.05,161.16,652.73,24.69
+2024-08-01,Lambda Media,Media,543.32,411.69,131.63,811.66,16.22
+2024-09-01,Lambda Media,Media,535.28,338.43,196.85,457.98,42.98
+2024-10-01,Lambda Media,Media,557.81,321.13,236.68,795.4,29.76
+2024-11-01,Lambda Media,Media,533.66,329.8,203.86,559.54,36.43
+2024-12-01,Lambda Media,Media,535.04,305.42,229.63,622.44,36.89
